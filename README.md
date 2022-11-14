@@ -1,6 +1,6 @@
 # Segmentation of medical images (detection of cancer cells)
 the work done in the image segmentation of a brain tumor Custom Dataset
-contained 250 images of a mini-project from the lecture “advanced signal processing”.
+contained 250 images of a mini-project from the lecture `advanced signal processing`.
 This project concerns Brain tumor segmentation seeks to separate healthy tissue from tumorous
 regions.
 This is an essential step in diagnosis and treatment planning to maximize the likelihood of successful
@@ -30,7 +30,7 @@ There are two types of region growing methods, namely:
 
 ## Result
 <p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/2.PNG" style=" width:600px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/2.PNG" style=" width:600px ; height:400px "  >
 <img src="https://github.com/misarb/BrainCancer/tree/main/img/3.PNG" style=" width:600px ; height:400px "  >
 <img src="https://github.com/misarb/BrainCancer/tree/main/img/4.PNG" style=" width:600px ; height:400px "  >
 </p>
