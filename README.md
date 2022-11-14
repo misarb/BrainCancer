@@ -11,15 +11,17 @@ detection system where patients rely on the skills and expertise of a human.
 
 ## algorithme of Local segmentation approach
 <p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/8.png" style=" width:400px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/8.png" style=" width:600px ; height:400px "  >
 </p>
 
 Here is an illustration showing this principle of growing regions:
 <p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/9.png" style=" width:400px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/9.png" style=" width:900px ; height:400px "  >
 </p>
 There are two types of region growing methods, namely:
+
 1-The primer method.
+
 2-The linear method.
 
 ## src code of this approche in matlab
@@ -31,8 +33,8 @@ There are two types of region growing methods, namely:
 ## Result
 <p >
 <img src="https://github.com/misarb/BrainCancer/blob/main/img/2.PNG" style=" width:600px ; height:400px "  >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/3.PNG" style=" width:600px ; height:400px "  >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/4.PNG" style=" width:600px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/3.PNG" style=" width:600px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/4.PNG" style=" width:600px ; height:400px "  >
 </p>
 
 
@@ -54,7 +56,7 @@ multilayer perceptron (MLP for Multi Layers Perceptron). The role of this part i
 combine the characteristics of the CNN code in order to classify the image.
 ```
 <p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/10.png" style=" width:600px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/10.png" style=" width:600px ; height:400px "  >
 </p>
 
 ##
@@ -64,25 +66,26 @@ combine the characteristics of the CNN code in order to classify the image.
 ```bash
   
   git clone  https://github.com/misarb/BrainCancer/tree/main/pythonModulle
-  
-  data to train the module : 
+  `data to train the module :` 
   git clone https://github.com/misarb/BrainCancer/tree/main/BrainTumor_Data
 ```
 ## Result of MASK-RCNN
 
 <p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/5.PNG" style=" width:600px ; height:400px "  >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/6.PNG" style=" width:600px ; height:400px "  >
-</p>
-
-<p >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/1.PNG" style=" width:600px ; height:400px "  >
-<img src="https://github.com/misarb/BrainCancer/tree/main/img/7.PNG" style=" width:600px ; height:400px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/5.PNG" style=" width:600px ; height:500px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/6.PNG" style=" width:600px ; height:600px "  >
 </p>
 
 ## Contributing
 
 Contributions are always welcome!
+
+<p >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/1.PNG" style=" width:600px ; height:600px "  >
+<img src="https://github.com/misarb/BrainCancer/blob/main/img/7.PNG" style=" width:600px ; height:600px "  >
+</p>
+
+
 
 ## Clone this project
 
